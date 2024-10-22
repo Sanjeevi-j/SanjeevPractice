@@ -1,0 +1,9 @@
+{
+	"name": "SanjeeviPractice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a363d703-b538-47d0-97b0-518301803827",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
