@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "SanjeeviPractice"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
