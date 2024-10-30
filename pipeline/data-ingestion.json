@@ -29,7 +29,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText3",
+						"referenceName": "newHTTP",
 						"type": "DatasetReference"
 					}
 				]
