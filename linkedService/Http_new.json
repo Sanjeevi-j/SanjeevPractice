@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/Sanjeevi-j/datas/raw/refs/heads/main/Athletes%20(6).csv/.",
+			"url": "https:\\\\github.com\\Sanjeevi-j\\datas\\raw\\refs\\heads\\main\\Athletes%20(6).csv\\",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
